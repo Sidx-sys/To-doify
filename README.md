@@ -20,7 +20,7 @@ Styling done using _Materialize_
 
 -   **Adding new Todos** => It can be done by a _AddTodo_ Card
 -   **Deleting a Todo** => It can be done using the done button, to check off the task
--   **Undo a Todo\***that you just deleted\* => Just on deleting the todo you have a chance to undo that request, by just clicking on the Toast that appears on deleting
+-   **Undo a Todo** *that you just deleted* => Just on deleting the todo you have a chance to undo that request, by just clicking on the _Toast_ that appears on deleting
 -   **Editing a Todo** => You can edit the Todo in the same card (For better UX)
 
 3. ### Logout
