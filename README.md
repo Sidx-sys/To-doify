@@ -1,7 +1,7 @@
 # To-doify 📝
 
-A _simple todo-list app_, which has the basic functionality of a **CRUD App**,
-along with _authentication_ done using **JWT** and made using **React <= Redux <= MongoDB (Atlas)**
+A _simple todo-list app_, which has the basic functionality of a **CRUD App**,<br>
+along with _authentication_ done using **JWT** and made using **React <= Redux <= MongoDB (Atlas)**<br>
 Styling done using _Materialize_
 
 ## To checkout the App :
