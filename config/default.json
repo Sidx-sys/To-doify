@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://root_user:test123@cluster0-eq3zd.mongodb.net/AppData?retryWrites=true&w=majority",
-    "jwtSecret": "looksNice"
+    "mongoURI": "mongodb+srv://<username>:<password>@cluster0-eq3zd.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "YOUR_SECRET_KEY_FOR_JWT"
 }
