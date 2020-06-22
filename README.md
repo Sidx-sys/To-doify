@@ -6,7 +6,7 @@ Styling done using _Materialize_
 
 ## To checkout the App :
 
-[link](https://to-doify.herokuapp.com/ "To-doify")
+[To-Doify📝](https://to-doify.herokuapp.com/ "To-doify")
 
 ## App features
 
